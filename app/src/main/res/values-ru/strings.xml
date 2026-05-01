@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ПогодаКурс</string>
+    <string name="main_title">Погода</string>
+    <string name="search_hint">Введите город (напр. Москва)</string>
+    <string name="forecast_week">Прогноз на неделю</string>
+    <string name="loading">Загрузка...</string>
+
+    <string name="search_title">Поиск города</string>
+    <string name="delete_confirm">Удалить город?</string>
+    <string name="city_added">Город добавлен</string>
+    <string name="no_results">Ничего не найдено</string>
+    <string name="remove_btn">Удалить</string>
+</resources>

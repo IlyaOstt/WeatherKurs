@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_std">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_tiny">4dp</dimen>
+    <dimen name="spacing_medium">12dp</dimen>
+    <dimen name="card_corner">24dp</dimen>
+    <dimen name="inner_corner">16dp</dimen>
+    <dimen name="icon_main">60dp</dimen>
+    <dimen name="icon_hour">40dp</dimen>
+    <dimen name="hour_card_width">75dp</dimen>
+    <dimen name="elevation_std">2dp</dimen>
+    <dimen name="font_h1">32sp</dimen>
+    <dimen name="font_h2">22sp</dimen>
+    <dimen name="font_body">16sp</dimen>
+    <dimen name="font_label">10sp</dimen>
+</resources>
